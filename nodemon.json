@@ -1,0 +1,5 @@
+{
+  "ignore": ["node_modeules"],
+  "exec": "npm run build",
+  "ext": "ts"
+}
